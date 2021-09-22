@@ -103,7 +103,7 @@ The follows N lines are the out-degree and out-neighbors of each vertice. For ex
   3. Output of command lines:
 
      ```
-     Finish loading graph, |V|=3, |E|=2
+     Finish loading graph, |V|=7, |E|=8
      The graph is a DAG.
      Finish DAG transformation. DAG has 3 vertices and 2 edges.
      Successfully write to file: Datasets/Sample.DAG
